@@ -1,0 +1,28 @@
+{
+  "name": "artefak-kos",
+  "version": "1.0.0",
+  "description": "Website tentang pemberian informasi dan saran Kost yang masih kosong di sekitar Sawojajar.",
+  "main": "server.js",
+  "scripts": {
+    "start": "nodemon -r esm server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hasimy-as/Artefak-Kos.git"
+  },
+  "author": "Hasimy",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hasimy-as/Artefak-Kos/issues"
+  },
+  "homepage": "https://github.com/hasimy-as/Artefak-Kos#readme",
+  "dependencies": {
+    "ejs": "^2.7.4",
+    "esm": "^3.2.25",
+    "express": "^4.17.1"
+  },
+  "engines": {
+    "node": "10.16.0",
+    "npm": "6.12.1"
+  }
+}

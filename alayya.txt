@@ -1,0 +1,145 @@
+    
+    <section class="site-section" id="agents-section">
+      <div class="container">
+        <div class="row mb-5">
+          <div class="col-md-7 text-left">
+            <h2 class="section-title mb-3">Real Estate Agents</h2>
+            <p class="lead">Lorem ipsum dolor sit amet consectetur adipisicing elit. Minus minima neque tempora reiciendis.</p>
+          </div>
+        </div>
+        <div class="row">
+          
+
+          <div class="col-md-6 col-lg-4 mb-4">
+            <div class="team-member">
+              <figure>
+                <ul class="social">
+                  <li><a href="#"><span class="icon-facebook"></span></a></li>
+                  <li><a href="#"><span class="icon-twitter"></span></a></li>
+                  <li><a href="#"><span class="icon-linkedin"></span></a></li>
+                  <li><a href="#"><span class="icon-instagram"></span></a></li>
+                </ul>
+                <img src="images/person_1.jpg" alt="Image" class="img-fluid">
+              </figure>
+              <div class="p-3 bg-primary">
+                <h3 class="mb-2">Allison Holmes</h3>
+                <span class="position">Real Estate Agent</span>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-md-6 col-lg-4 mb-4">
+            <div class="team-member">
+              <figure>
+                <ul class="social">
+                  <li><a href="#"><span class="icon-facebook"></span></a></li>
+                  <li><a href="#"><span class="icon-twitter"></span></a></li>
+                  <li><a href="#"><span class="icon-linkedin"></span></a></li>
+                  <li><a href="#"><span class="icon-instagram"></span></a></li>
+                </ul>
+                <img src="images/person_2.jpg" alt="Image" class="img-fluid">
+              </figure>
+              <div class="p-3 bg-primary">
+                <h3 class="mb-2">Dave Simpson</h3>
+                <span class="position">Real Estate Agent</span>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-md-6 col-lg-4 mb-4">
+            <div class="team-member">
+              <figure>
+                <ul class="social">
+                  <li><a href="#"><span class="icon-facebook"></span></a></li>
+                  <li><a href="#"><span class="icon-twitter"></span></a></li>
+                  <li><a href="#"><span class="icon-linkedin"></span></a></li>
+                  <li><a href="#"><span class="icon-instagram"></span></a></li>
+                </ul>
+                <img src="images/person_3.jpg" alt="Image" class="img-fluid">
+              </figure>
+              <div class="p-3 bg-primary">
+                <h3 class="mb-2">Ben Thompson</h3>
+                <span class="position">Real Estate Agent</span>
+              </div>
+            </div>
+          </div>
+
+          
+        </div>
+      </div>
+    </section>
+
+
+    <section class="py-5 bg-primary site-section how-it-works" id="howitworks-section">
+      <div class="container">
+        <div class="row mb-5 justify-content-center">
+          <div class="col-md-7 text-center">
+            <h2 class="section-title mb-3 text-black">How It Works</h2>
+          </div>
+        </div>
+        <div class="row">
+          <div class="col-md-4 text-center">
+            <div class="pr-5 first-step">
+              <span class="text-black">01.</span>
+              <span class="custom-icon flaticon-house text-black"></span>
+              <h3 class="text-black">Find Property.</h3>
+              <p class="text-black">Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+            </div>
+          </div>
+
+          <div class="col-md-4 text-center">
+            <div class="pr-5 second-step">
+              <span class="text-black">02.</span>
+              <span class="custom-icon flaticon-coin text-black"></span>
+              <h3 class="text-dark">Buy Property.</h3>
+              <p class="text-black">Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+            </div>
+          </div>
+
+          <div class="col-md-4 text-center">
+            <div class="pr-5">
+              <span class="text-black">03.</span>
+              <span class="custom-icon flaticon-home text-black"></span>
+              <h3 class="text-dark">Outstanding Houses.</h3>
+              <p class="text-black">Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+            </div>
+          </div>
+        </div>
+      </div>  
+    </section>
+
+
+    <section class="site-section" id="about-section">
+      <div class="container">
+        
+        <div class="row large-gutters">
+          <div class="col-lg-6 mb-5">
+
+              <div class="owl-carousel slide-one-item with-dots">
+                  <div><img src="images/img_1.jpg" alt="Image" class="img-fluid"></div>
+                  <div><img src="images/img_2.jpg" alt="Image" class="img-fluid"></div>
+                  <div><img src="images/img_3.jpg" alt="Image" class="img-fluid"></div>
+                </div>
+
+          </div>
+          <div class="col-lg-6 ml-auto">
+            
+            <h2 class="section-title mb-3">Warehouse Real Estate Template</h2>
+                <p class="lead">Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+                <p>Est qui eos quasi ratione nostrum excepturi id recusandae fugit omnis ullam pariatur itaque nisi voluptas impedit  Quo suscipit omnis iste velit maxime.</p>
+
+                <ul class="list-unstyled ul-check success">
+                  <li>Placeat maxime animi minus</li>
+                  <li>Dolore qui placeat maxime</li>
+                  <li>Consectetur adipisicing</li>
+                  <li>Lorem ipsum dolor</li>
+                  <li>Placeat molestias animi</li>
+                </ul>
+
+                <p><a href="#" class="btn btn-primary mr-2 mb-2">Learn More</a></p>
+            
+          </div>
+        </div>
+      </div>
+    </section>
+
