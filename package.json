@@ -4,7 +4,7 @@
   "description": "Website tentang pemberian informasi dan saran Kost yang masih kosong di sekitar Sawojajar.",
   "main": "server.js",
   "scripts": {
-    "start": "nodemon -r esm server.js"
+    "start": "nodemon -r esm server"
   },
   "repository": {
     "type": "git",
@@ -19,7 +19,8 @@
   "dependencies": {
     "ejs": "^2.7.4",
     "esm": "^3.2.25",
-    "express": "^4.17.1"
+    "express": "^4.17.1",
+    "nodemon": "^2.0.1"
   },
   "engines": {
     "node": "10.16.0",
