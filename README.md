@@ -11,7 +11,7 @@ Website tentang pemberian informasi dan saran Kost yang masih kosong di sekitar 
 ## Tampilan
 Saat telah diakses, tampilan awal website yaitu seperti ini:
 
-![foto](docs/webView)
+![foto](docs/webView.png)
 
 ## Versi 1.0.0
 
